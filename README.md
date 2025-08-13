@@ -36,10 +36,12 @@
 **1. Automatic Prompt Optimization**
 
 The algorithm that uses the concept of textual gradient decent, beam search, and Reinforcement Learning methods such as PPO and DPO to automatically optimize user's LLM prompts for financial QA generative task
+
 **2. Research Project**
 
 Replicating a Comparative Simulation Study on Classification Methods
 This repository contains code for replicating and slightly extending the simulation study introduced by Kim (2010). The original study compares several classification algorithms: Decision Tree, Logistic Regression, and Artificial Neural Networks (ANNs)—across multiple data-generation scenarios. Here, we replicate this simulation and also include Random Forest as an additional algorithm to test. Check out the [paper](doc/main.pdf).
+
 **3. Laser Hockey RL agent**
 
 The final project about the development of a Reinforcement Learning agent for a laser hockey game in the course Reinforcement Learning WiSe 24/25 at the University of Tübingen, Germany. Ckeck out the paper
