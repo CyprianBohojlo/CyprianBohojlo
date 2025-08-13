@@ -44,7 +44,7 @@ This repository contains code for replicating and slightly extending the simulat
 
 **3. Laser Hockey RL agent**
 
-The final project about the development of a Reinforcement Learning agent for a laser hockey game in the course Reinforcement Learning WiSe 24/25 at the University of Tübingen, Germany. Ckeck out the paper
+The final project about the development of a Reinforcement Learning agent for a laser hockey game in the course Reinforcement Learning WiSe 24/25 at the University of Tübingen, Germany. For details check out the [paper](RL_report.pdf).
 
 
 
