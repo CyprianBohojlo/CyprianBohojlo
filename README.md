@@ -26,7 +26,7 @@
 7. Python libraries: Scikit-learn, PyTorch, TensorFlow, Pandas, NumPy, Seaborn, Matplotlib, Plotly
 8. SQL
 9. R
-10. PowerBi
+10. Power BI
 11. Tableau
 12. Git
 13. Alteryx
